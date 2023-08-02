@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Annotation/Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnit/JUnit.iml" filepath="$PROJECT_DIR$/JUnit/JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOriented/ObjectOriented.iml" filepath="$PROJECT_DIR$/ObjectOriented/ObjectOriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/Stream/Stream.iml" filepath="$PROJECT_DIR$/collection/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+    </modules>
+  </component>
+</project>
