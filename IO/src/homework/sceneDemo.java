@@ -118,7 +118,7 @@ public class sceneDemo {
         return goodsList;
     }
 
-    private static void writeGoods(List<Goods> allGoods, boolean append) {
+    private static void writeGoods(List<Goods> allGoods, boolean append) {// true 追加
         try (Writer writer = new FileWriter(Goods.PATH, append);
              BufferedWriter bufferedWriter = new BufferedWriter(writer);
         ) {

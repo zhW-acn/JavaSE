@@ -40,5 +40,16 @@ public class CopyFile {
         } catch(IOException e){
             e.printStackTrace();
         }//finally不用写
+
+//        最简单的代码，没有缓冲区
+//        try(InputStream is = new FileInputStream(sourcePath);
+//            OutputStream os = new FileOutputStream(targetPath)){
+//            int len;
+//            while((len = is.read()) != -1){
+//                os.write(len);
+//            }
+//        }catch (IOException e){
+//            e.printStackTrace();
+//        }
     }
 }

@@ -20,6 +20,7 @@ public class Test_io {
 //        }
         byte[] bytes = new byte[3];
         StringBuilder sb = new StringBuilder();
+        //尝试从输入流中读取最多 bytes.length 个字节的数据，并将实际读取的字节数赋值给 read
         while ((read = inputStream.read(bytes)) != -1) {
             //每次读出多少字节，就把对应的字节转化成字符串
             String s = new String(bytes, 1, read);

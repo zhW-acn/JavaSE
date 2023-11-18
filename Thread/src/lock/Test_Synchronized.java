@@ -27,7 +27,7 @@ public class Test_Synchronized {
             new Thread(() -> {
                 Test_Synchronized.show_method1();
 
-//                new TestSynchronized().show();//50个this都不是一把锁，不可能实现同步
+//                new Test_Synchronized().show();//50个this都不是一把锁，不可能实现同步
 
                 System.out.println("------" + Math.random() + "--------");
             }).start();

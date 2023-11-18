@@ -1,7 +1,7 @@
 package homework;
 
 public class Goods {
-    public static final String PATH = "C:\\Users\\22408\\IdeaProjects\\JavaSE\\IO\\DEMOFILE\\shop.txt";
+    public static final String PATH = "F:\\IdeaProjects\\Filed\\JavaSE\\IO\\DEMOFILE\\shop.txt";
     private static Integer Id;// 商品ID
 
     private static String Name;// 商品名
